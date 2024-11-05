@@ -1,0 +1,17 @@
+html body .logoSmallSize {
+  width: 147px;
+  max-width: 100%;
+}
+html body .logoBigSize {
+  width: 270px;
+  max-width: 100%;
+}
+html body .w-99 {
+  width: 99% !important;
+}
+html body .grayLine3 {
+  width: 100%;
+  max-width: 100%;
+  height: 3px;
+  background-color: #c3c4c5;
+}/*# sourceMappingURL=detail.css.map */
